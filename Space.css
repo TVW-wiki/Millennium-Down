@@ -1,0 +1,156 @@
+*,html {
+    margin: 0;
+        padding: 0; }
+
+body {
+    font-family: Aldrich, sans-serif;
+    color: #6bbebd;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url(Desain\ tanpa\ judul\ \(6\).png);
+    background-repeat: no-repeat ;
+    background-position: center ;
+    background-attachment:fixed ;
+    background-size:cover ;
+}
+
+header {
+    background: #171717;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-style: italic;
+    margin: 10px 0;
+}
+
+.TVWGLOBE {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+.flag {
+    max-width: 50%;
+}
+
+
+
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+footer {
+                text-align:center;}
+            .tableofinti {
+                width: 34%;
+                border: 3px solid #6bbebd;
+                
+                background-color: #171717;
+                position: absolute;
+                top:0;
+                left: 0;
+            }
+            .headergrob {
+                width: 84%;
+            }
+
+            .container-navbar {
+                background-color: #000;
+                   font-family: Aldrich; color:#6bbebd;
+                   width:100%;
+                 display: flex;
+                 justify-content: space-around;
+                    align-items: center;
+                position: relative;}
+.Grobmap {
+    width:30% ;
+    height: 320px;
+}
+
+div h3 {
+    font-size: 80;
+}
+
+.lutzereinimg {
+    
+    display: flex;
+justify-content: center;
+border: 3px solid #6bbebd;
+    
+}
+.Wirtschaftssphare-Lutzerein {
+    width: 15%;
+}
+.Prusretz {
+    width: 15%;
+}
+.td2 {
+    justify-content: space-between;
+    display: flex;
+}
+.td3 {
+    justify-content: space-between;
+    display: flex;
+}
+.newtd {
+    justify-content: space-between;
+    display: flex;
+    font-size: 1;
+}
+.newtdimg {
+    width: 15%;
+}
+h3 {
+    background-color: #6bbebd;
+    color: #171717;
+    justify-content:center ;
+    display: flex;
+}
+.cursor {cursor:url('11.png'), pointer;
+    cursor:url('11.png') all-scroll;
+
+}
+.container-navbar {
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+       align-items: center;
+}
+.section {
+    width: 65%;
+    
+    
+    
+    background-color: #171717;
+    border: 3px solid #6bbebd;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+.Judul {
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.overlay {
+   
+   align-items: center;
+   justify-content: center;
+   border: 2px solid #6bbebd;
+   display: flex;
+}
+.lutzereinnibos {
+    border: 1px solid  #6bbebd;
+}
+.spacemap { border:2px solid #6bbebd}
